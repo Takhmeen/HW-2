@@ -1,0 +1,7 @@
+.Comment{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}

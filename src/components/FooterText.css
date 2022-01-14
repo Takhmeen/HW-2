@@ -1,0 +1,13 @@
+.Footer{
+    width: 250px;
+    border: 1px solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Comment-text{
+    margin-bottom: 20px;
+    border-bottom: 1px solid ;
+    padding: 15px;
+}
+.Comment-date{
+    padding-bottom: 10px;
+}
